@@ -1,6 +1,6 @@
 - :space_invader: Hi, I’m @jchulsey
 - :dollar: I’m interested in financial technology.
-- :chart_with_upwards_trend: I’m currently learning differential equations and advanced calculus. 
+- :chart_with_upwards_trend: I’m currently learning about abstract structures and advanced calculus. 
 - :credit_card: I’m looking to collaborate on building better financial solutions. 
 - 📱 1-800-Call-My-Bluff
 
