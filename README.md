@@ -1,8 +1,8 @@
 <h1 align="center">Hi, 👋 I am J.</h1>
-<h4 align="center">Integration Engineer, Associate - Basketball Player - Mathematician</h4>
+<h4 align="center">Associate, Cloud Software Engineer - Basketball Player - Mathematician</h4>
 
-- :space_invader: I’m currently learning Ansible.
-- :chart_with_upwards_trend: This fall I am taking abstract structures and advanced calculus. I hope to complete the AZ-204 by the end of the year. 
+- :space_invader: I’m currently learning C# and dotnet.
+- :chart_with_upwards_trend: I want to help. 
 - :credit_card: I love writing scripts. 
 - 📱 1-800-Call-My-Bluff
 
