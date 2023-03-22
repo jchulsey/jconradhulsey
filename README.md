@@ -1,5 +1,3 @@
-![Elephant in the Room - J. Hulsey](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/295293206_10159665179150091_862573956258741231_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_ohc=8g1QV2wzZqMAX9NVf6B&_nc_ht=scontent-dfw5-2.xx&oh=00_AT_gmQYYU4G21ZhrO0BbPuTZuBpNSgqVIoTKeFUMJt-4_Q&oe=62E69B34)
-
 <h1 align="center">Hi, 👋 I am J.</h1>
 <h4 align="center">Integration Engineer, Associate - Basketball Player - Mathematician</h4>
 
