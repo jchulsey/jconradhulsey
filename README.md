@@ -1,8 +1,7 @@
 <h1 align="center">Hi, 👋 I am J.</h1>
-<h4 align="center">Associate, Cloud Software Engineer - Basketball Player - Mathematician</h4>
+<h4 align="center">Cloud Software Engineer / Integrations</h4>
 
 - :space_invader: I’m currently learning C# and dotnet.
-- :chart_with_upwards_trend: I want to help. 
 - :credit_card: I love writing scripts. 
 - 📱 1-800-Call-My-Bluff
 
