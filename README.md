@@ -1,7 +1,7 @@
 <h1 align="center">Hi, 👋 I am J.</h1>
 <h4 align="center">Cloud Software Engineer / Integrations</h4>
 
-- :space_invader: I’m currently learning C# and dotnet.
+- :space_invader: I’m currently using C# and dotnet.
 - :credit_card: I love writing scripts. 
 - 📱 1-800-Call-My-Bluff
 
